@@ -26,6 +26,14 @@ sudo service apache2 start
 
 
 
+### MASTER P/ DEVELOP " DEVOLOP
+
+GIT CHECKOUT DEVELOP 
+GIT PULL
+GIT MERGE MASTER
+Atualiza ]
+
+
 
 
 
