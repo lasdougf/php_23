@@ -25,6 +25,16 @@ sudo service apache2 start
 4- Verificar se foi salvo no Github.
 
 
+### MASTER P/ DEVELOP " DEVOLOP
+
+GIT CHECKOUT DEVELOP 
+GIT PULL
+GIT MERGE MASTER
+
+
+
+
+
 
 
 
