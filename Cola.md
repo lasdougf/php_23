@@ -41,7 +41,11 @@ GIT MERGE MASTER
 GIT CHECKOUT DEVELOP 
 GIT PULL
 GIT MERGE MASTER
-Atualiza ]
+Atualiza 
+
+
+test
+pdev
 
 
 
