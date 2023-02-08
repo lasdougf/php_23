@@ -17,6 +17,9 @@
 sudo service apache2 status (apache is running)
 sudo service apache2 start
 
+ ALTERACAO PARA CONFLITO
+ 1
+ 
 
 ## Ctrl+S = Salvar no Github
 1- git add . (.) = todos os arquivos ou especificar por nome ex:git add index.php
