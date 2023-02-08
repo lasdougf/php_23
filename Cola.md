@@ -25,12 +25,24 @@ sudo service apache2 start
 4- Verificar se foi salvo no Github.
 
 
-### MASTER P/ DEVELOP " DEVOLOP
+## Para o merge
 
-GIT CHECKOUT DEVELOP 
-GIT PULL
-GIT MERGE MASTER
+1- git checkout nome_branch
+2- git pull (pegar atualizacoes)
+3- git merge NOME_BRANCH para trazer mudancas
+Ex:
+    Estamos na branch *Develop* queremos levar para *Master*
+    1- git checkout *master*
+    2-git pull (master)
+    3-git merge *develop*
 
+    Estamos na branch *master* queremos levar para *develop*
+    1- git checkout *develop*
+    2-git pull (develop)
+    3-git merge *master*
+
+
+<<<<<<< HEAD
 
 
 
@@ -51,6 +63,8 @@ aqui
 novo arquivo
 
 
+=======
+>>>>>>> Devolop
 
 
 
