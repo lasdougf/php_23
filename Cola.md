@@ -17,9 +17,6 @@
 sudo service apache2 status (apache is running)
 sudo service apache2 start
 
- ALTERACAO PARA CONFLITO
- 1
- 
 
 ## Ctrl+S = Salvar no Github
 1- git add . (.) = todos os arquivos ou especificar por nome ex:git add index.php
@@ -38,23 +35,18 @@ Ex:
     1- git checkout *master*
     2-git pull (master)
     3-git merge *develop*
-    4-resolve conflitos se houver
-    4.1 Com conflito: git add . e git commit - m "...."
-    4.2 Sem conflito: so executar o git push
-
 
     Estamos na branch *master* queremos levar para *develop*
     1- git checkout *develop*
     2-git pull (develop)
     3-git merge *master*
-    4-resolve conflitos se houver
-    4.1 Com conflito: git add . e git commit - m "...."
-    4.2 Sem conflito: so executar o git push
+
+alteracaonocolamd final
+
+sss
 
 
-
-
-
+ss
 
 
 
